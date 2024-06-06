@@ -16,7 +16,7 @@
 <span style="margin-right: 10px;">
 בתמונה מוצגת דוגמה ממאמר הסרטן. התמונה מכילה כיתוב בעברית בחלקה העליון: "דוגמה ממאמר הסרטן". מתחת לכיתוב יש תמונה נוספת עם הכיתוב "Baseline". בתמונה זו נראה חלק מגופו של אדם. בתחתית התמונה מופיע ציטוט ממאמר מדעי: Wagle N et al. Dissecting Therapeutic Resistance to RAF Inhibition Melanoma by tumor genomic profiling. Journal of Clinical Oncology 2011;29:3085-3096.
 </span>
-<img src="frames/frame_62290_Result_04-06_12-42-19.png" title="דוגמה ממאמר הסרטן" style="margin: 10px; max-width:600px;">
+<img src="frames/frame_62290_Result_04-06_12-42-19.png" title="דוגמה ממאמר הסרטן" style="margin: 10px; max-width:200px;">
 </p>
 
 ### 5. דוגמה ממחקר גנטי על מלנומה (00:34:00 - 00:35:00)
